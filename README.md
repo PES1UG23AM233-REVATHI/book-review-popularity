@@ -141,7 +141,9 @@ Develop a web dashboard for live predictions
 👨‍💻 Author
 
 REVATHI A N,NIDHI SHETTY
+
 Department of Artificial Intelligence and Machine Learning
+
 PES UNIVERSITY
 
 📧 Email: revrevathi1103@gmail.com
