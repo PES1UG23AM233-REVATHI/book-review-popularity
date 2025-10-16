@@ -116,4 +116,41 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 # 3️⃣ Run the notebook
 jupyter notebook miniML.ipynb
 
+```
+---
+⚙️ Requirements
+
+Python 3.8+
+
+Jupyter Notebook or Google Colab
+
+Internet access (for downloading dataset if needed)
+
+🎯 Conclusion
+
+✅ The project successfully predicts book review popularity based solely on textual content.
+✅ Logistic Regression provided strong baseline performance and interpretability.
+✅ The model reveals meaningful relationships between emotional language and user engagement.
+Future Enhancements:
+
+Incorporate sentiment polarity and reviewer metadata
+
+Experiment with advanced models (LSTM, BERT)
+
+Develop a web dashboard for live predictions
+👨‍💻 Author
+
+REVATHI A N,NIDHI SHETTY
+Department of Artificial Intelligence and Machine Learning
+PES UNIVERSITY
+
+📧 Email: revrevathi1103@gmail.com
+           nidhi.shetty1408@gmail.com
+
+⭐ GitHub Repository
+
+👉 https://github.com/PES1UG23AM233-REVATHI/book-review-popularity
+
+
+
 
