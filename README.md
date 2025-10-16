@@ -82,8 +82,10 @@ Created a **confusion matrix heatmap** using Seaborn to visually represent model
 ## 🧩 User Interface (Colab Demo)
 A simple **Colab interface** was built to allow users to type their own book reviews and get a predicted popularity score.
 
-📸 *Screenshot example (add your UI screenshot here)*  
+📸 *Screenshot example:*
+![UI Screenshot](results/ui_screenshot.png)
 > “Enter a review → Model outputs: Popular / Not Popular.”
+
 
 ---
 
