@@ -11,7 +11,7 @@ Using **Natural Language Processing (NLP)** and **Machine Learning**, we analyze
 The project is inspired by the paper:  
 **_“Text-Based Prediction of Book Review Popularity”_** by *Bridget Daly, Stanford University.*
 
----
+
 
 ---
 
