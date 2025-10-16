@@ -76,9 +76,6 @@ Created a **confusion matrix heatmap** using Seaborn to visually represent model
 - Reviews with emotional or expressive wording are more likely to be popular.  
 - Short, generic reviews typically receive lower ratings.  
 
-📸 *Example Visualization:*
-
-![Confusion Matrix Heatmap](results/confusion_matrix_heatmap.png)
 
 ---
 
